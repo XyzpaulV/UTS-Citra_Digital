@@ -6,8 +6,8 @@ Proyek ini merupakan tugas UTS mata kuliah **Citra Digital**, yang berfokus pada
 - `main.py` → Program utama untuk menjalankan semua proses
 - `filters.py` → Berisi fungsi filter (Gaussian, Median, dan Hybrid)
 - `metrics.py` → Menghitung metrik evaluasi (PSNR & SSIM)
-- `gambar_ujj.jpg` → Citra asli yang digunakan untuk pengujian
-- hasil-uji.png  → ini adalah output dari filter (Gaussian, Median, dan Hybrid)
+- `gambar_uji.jpg` → Citra asli yang digunakan untuk pengujian
+- `hasil-uji.png`  → ini adalah output dari filter (Gaussian, Median, dan Hybrid)
 - Folder `output/` → Menyimpan hasil pemrosesan
 
 ## ⚙️ Teknologi yang Digunakan
