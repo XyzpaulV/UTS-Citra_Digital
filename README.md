@@ -40,7 +40,5 @@ Citra yang rusak akibat noise diproses menggunakan tiga teknik filter:
 - **Hybrid Filter:** Kombinasi Gaussian + Median untuk hasil yang lebih seimbang  
 
 Metrik **PSNR (Peak Signal-to-Noise Ratio)** dan **SSIM (Structural Similarity Index)** digunakan untuk menilai seberapa baik hasil filter mempertahankan kualitas citra asli.
-
-**Penjelasan**
-Hasil menunjukkan bahwa filter Gaussian dan Hybrid mampu meningkatkan kualitas citra (PSNR dan SSIM lebih tinggi) dibanding citra noisy. Namun secara visual, perbedaannya tidak terlalu terlihat karena intensitas noise yang rendah, dan citra asli tetap tampak paling baik karena belum kehilangan detail akibat proses filtering.
+ Hasil menunjukkan bahwa filter Gaussian dan Hybrid mampu meningkatkan kualitas citra (PSNR dan SSIM lebih tinggi) dibanding citra noisy. Namun secara visual, perbedaannya tidak terlalu terlihat karena intensitas noise yang rendah, dan citra asli tetap tampak paling baik karena belum kehilangan detail akibat proses filtering.
 
